@@ -1,13 +1,16 @@
-# Antigravity Superpowers & UX Pack 🚀
+# ColmoCode: UX, Design Systems, and Agent Superpowers Pack 🚀
 
-This repository contains a curated pack of **10 Superpowers (Workflows)** and **110 UI/UX & Product Design Skills** designed to run seamlessly in agentic environments like **Antigravity**, **Claude Code**, **Codex**, and **Cursor**.
+This repository contains a curated pack of **10 Superpowers (Workflows)**, **110 UI/UX & Product Design Skills**, and **Custom IDE Rules/Agents** designed to run seamlessly in agentic environments like **Antigravity**, **Claude Code**, **Cursor**, and **Codex CLI**.
 
 It empowers agents to build premium, high-converting, and beautiful interfaces quickly and cost-effectively, combining strict software engineering practices (TDD) with high-end visual aesthetics.
 
 ## 📂 Repository Structure
 
-- `workflows/` — 10 Superpowers & workflows (e.g. `/forge`, `/architect`, `/conversion-booster`, `/debug-machine`).
-- `skills/` — 110+ Design & UX skills (e.g. `Taste Skill`, `Refactoring UI`, `Hooked UX`, `Design Sprint`, `Interface Design`).
+- `workflows/` — 10 Superpowers & workflows (e.g., `/forge`, `/architect`, `/conversion-booster`, `/debug-machine`).
+- `skills/` — 110+ Design & UX skills (e.g., `Taste Skill`, `Refactoring UI`, `Hooked UX`, `Design Sprint`, `Interface Design`).
+- `rules/` — Custom IDE configurations and rulesets for Claude Code, Codex, Cursor, and Antigravity.
+- `agents/` — Custom agent roles (e.g., `architect.md`, `type-guard.md`).
+- `commands/` — Custom CLI commands for agents.
 - `install.sh` — The universal bootstrap installer.
 
 ## ⚡ Installation
